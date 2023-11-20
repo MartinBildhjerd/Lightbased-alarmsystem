@@ -16,11 +16,6 @@ Swift Alarm Response:
 When a temperature surge surpasses pre-defined limits, activating a seamless alarm system. This includes visual light flickering, informing about the heat increase. But, there is possibility of customizable alerts like audible alarms, visual indicators, or even notifications for immediate attention.
 
 
-Tailored Temperature Thresholds:
-
-Enjoy the flexibility of setting your own temperature thresholds. This feature ensures that alarms are triggered only when temperatures breach specified limits, reducing the likelihood of false alarms.
-
-
 Versatility in Applications:
 
 The circuit seamlessly integrates into various applications such as fire detection systems, industrial monitoring, and home security. Its adaptability makes it an indispensable solution for diverse safety-enhancing scenarios. 
