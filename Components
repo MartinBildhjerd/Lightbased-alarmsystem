@@ -1,0 +1,17 @@
+Semiconductors:
+NE555 timer
+Transistor
+
+Passive Components:
+R1 = 200 kOhm
+R2 = 4.7 kOhm
+R3 = 1 kOhm
+R4 = 56 kOhm
+C1 = 100 uF
+C2 = 47 uF
+C3 = 0.1 uF
+C4 = 0.01 uF
+
+Alarm System Components:
+LED light
+Thermal diode
