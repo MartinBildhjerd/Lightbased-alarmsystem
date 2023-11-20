@@ -8,7 +8,7 @@ Key Features:
 
 Smart Thermal Sensing:
 
-The alarmsystem employs a thermal sensor across its compact circuit board.
+The alarmsystem employs a thermal diode across its compact circuit board.
 
 
 Swift Alarm Response:
