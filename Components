@@ -9,8 +9,8 @@ R3 = 1 kOhm
 R4 = 56 kOhm
 C1 = 100 uF
 C2 = 47 uF
-C3 = 0.1 uF
-C4 = 0.01 uF
+Variable capacitor 3u, 50%
+C4 = 0.1 uF
 
 Alarm System Components:
 LED light
